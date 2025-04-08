@@ -47,12 +47,7 @@ void inputNumbers() {
 }
 
 void findRemainder() {
-    if (P == 0) {
-        cout << "Сначала введите числа Q и P через пункт меню 1.\n";
-        return;
-    }
-    int remainder = Q % P;
-    cout << "Остаток от деления " << Q << " на " << P << " равен: " << remainder << "\n";
+// Здесь будет реализация ввода чисел
 }
 
 void findQuotient() {
