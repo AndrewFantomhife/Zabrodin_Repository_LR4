@@ -56,5 +56,10 @@ void findRemainder() {
 }
 
 void findQuotient() {
-    // Здесь будет реализация нахождения целой части
+    if (P == 0) {
+        cout << "Сначала введите числа Q и P через пункт меню 1.\n";
+        return;
+    }
+    int quotient = Q / P;
+    cout << "Целая часть от деления " << Q << " на " << P << " равна: " << quotient << "\n";
 }
