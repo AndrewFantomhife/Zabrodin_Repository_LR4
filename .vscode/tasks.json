@@ -13,6 +13,7 @@
 			],
 			"group": "build",
 			"detail": "cd c:\\Users\\Lux\\Desktop\\Zabrodin_Repository_LR4\\Zabrodin_Repository_LR4_0; go build ${fileDirname}"
+			
 		}
 	]
 }
