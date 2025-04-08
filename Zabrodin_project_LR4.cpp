@@ -55,7 +55,7 @@ void inputNumbers() {
 }
 
 void findRemainder() {
-    
+
 }
 
 void findQuotient() {
