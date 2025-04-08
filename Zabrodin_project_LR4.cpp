@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 
 // Заготовка методов
@@ -54,7 +55,7 @@ void inputNumbers() {
 }
 
 void findRemainder() {
-    // Здесь будет реализация нахождения остатка
+    
 }
 
 void findQuotient() {
